@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weatherapi/static/css/main.ee0e3399.css",
+    "main.js": "/weatherapi/static/js/main.ec8ab57e.js",
+    "index.html": "/weatherapi/index.html",
+    "main.ee0e3399.css.map": "/weatherapi/static/css/main.ee0e3399.css.map",
+    "main.ec8ab57e.js.map": "/weatherapi/static/js/main.ec8ab57e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee0e3399.css",
+    "static/js/main.ec8ab57e.js"
+  ]
+}
